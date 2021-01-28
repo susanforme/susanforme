@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hi 👻
 ## ![](https://github-readme-stats.vercel.app/api?username=susanforme)
 
 🌱 I’m currently learning JavaScript
