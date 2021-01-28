@@ -5,23 +5,3 @@
 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susanforme&local=cn)
 
-## Pinned
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=susanforme&repo=foodPlatform&show_owner=true"
-/>
-<img
-  align="left"
-  style="margin-top: 10px"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=susanforme&repo=food-record&show_owner=true"
-/>
-<img
-  align="left"
-  style="margin-top: 10px"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=susanforme&repo=sweet&show_owner=true"
-/>
-<img
-  align="left"
-  style="margin-top: 10px; margin-bottom: 10px"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=susanforme&repo=chat&show_owner=true"
-/>
