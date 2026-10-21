@@ -26,10 +26,30 @@
 
 ---
 
+## Contributions
+
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img
+    width="100%"
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="3D Contribution Graph"
+  />
 </p>
 
 <p align="center">
-  <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/susanforme/susanforme/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/susanforme/susanforme/output/github-snake.svg"
+    />
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/susanforme/susanforme/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
