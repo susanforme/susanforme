@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">
   <a href="https://github.com/susanforme">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Stay+hungry+and+stay+foolish;Welcome+to+my+GitHub!" alt="Typing SVG" />
