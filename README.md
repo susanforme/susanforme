@@ -31,7 +31,7 @@
 <p align="center">
   <img
     width="100%"
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-green-animate.svg?v=2"
     alt="3D Contribution Graph"
   />
 </p>
